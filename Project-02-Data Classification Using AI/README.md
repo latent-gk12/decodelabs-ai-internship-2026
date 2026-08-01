@@ -193,13 +193,13 @@ models/logistic_regression_model.pkl
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/latent-gk12/decodelabs-ai-internship-2026.git
 ```
 
-### 2. Move into the project
+### 2. Navigate to Project 2
 
 ```bash
-cd Project-02-Data-Classification
+cd decodelabs-ai-internship-2026/Project-02-Data-Classification
 ```
 
 ### 3. Install dependencies
